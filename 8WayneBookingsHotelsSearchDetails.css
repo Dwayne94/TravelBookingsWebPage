@@ -1,0 +1,64 @@
+header
+{
+    margin: 20px; 
+    font-size: xx-large;
+    font-weight: bolder;
+    color: black;
+    text-align: center;
+}
+
+img
+{
+    margin: 10px; 
+    width: 1870px;
+    height: 400px;
+}
+
+h1
+{
+    margin: 20px; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+    color: darkgreen;
+
+}
+
+body
+{
+    background-color: lightgreen;
+}
+
+ul.hotelsearchdetails
+{
+    list-style-type: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+    color: darkgreen;
+}
+
+ul.hotelservicesdetails
+{
+    list-style-type: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+    color: darkgreen;
+}
+
+p
+{
+    margin: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+    font-style: italic;
+    font-weight: bold;
+    color: black;
+}
+
+footer
+{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    color: black;
+}
